@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\BMViewerView.obj",
+            "outputs": [
+                "Release\\BMViewerView.cpp.obj.dt.module.json",
+                "Release\\BMViewerView.cpp.obj.dt.d.json",
+                "Release\\BMViewer.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
