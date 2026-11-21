@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\PainterView.obj",
+            "outputs": [
+                "Release\\PainterView.h.obj.dt.module.json",
+                "Release\\PainterView.h.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

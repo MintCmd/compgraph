@@ -1,0 +1,11 @@
+﻿  PainterDoc.cpp
+  PainterView.cpp
+  Shapes.cpp
+C:\Users\MVM\OneDrive\Desktop\CompGraph\Lab2\Painter42\Painter\Shapes.cpp(580,1): warning C4838: Преобразование из "int" в "UINT" требует сужающего преобразования.
+C:\Users\MVM\OneDrive\Desktop\CompGraph\Lab2\Painter42\Painter\Shapes.cpp(657,1): warning C4838: Преобразование из "int" в "UINT" требует сужающего преобразования.
+  Создание кода
+  294 of 650 functions (45.2%) were compiled, the rest were copied from previous compilation.
+    106 functions were new in current compilation
+    94 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Painter.vcxproj -> C:\Users\MVM\OneDrive\Desktop\CompGraph\Lab2\Painter42\Release\Painter.exe

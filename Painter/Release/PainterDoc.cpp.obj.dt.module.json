@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\PainterDoc.obj",
+            "outputs": [
+                "Release\\PainterDoc.cpp.obj.dt.module.json",
+                "Release\\PainterDoc.cpp.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

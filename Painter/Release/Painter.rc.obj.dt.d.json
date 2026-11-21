@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mvm\\onedrive\\desktop\\compgraph\\lab2\\painter42\\painter\\painter.rc",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\mvm\\onedrive\\desktop\\compgraph\\lab2\\painter42\\painter\\resource.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.35.32215\\atlmfc\\include\\afxres.h",
+            "c:\\users\\mvm\\onedrive\\desktop\\compgraph\\lab2\\painter42\\painter\\res\\painter.rc2",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.35.32215\\atlmfc\\include\\afxres.rc",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.35.32215\\atlmfc\\include\\afxprint.rc"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

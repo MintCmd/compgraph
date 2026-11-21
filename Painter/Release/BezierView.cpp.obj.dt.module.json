@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\BezierView.obj",
+            "outputs": [
+                "Release\\BezierView.cpp.obj.dt.module.json",
+                "Release\\BezierView.cpp.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\MainFrm.obj",
+            "outputs": [
+                "Release\\MainFrm.h.obj.dt.module.json",
+                "Release\\MainFrm.h.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

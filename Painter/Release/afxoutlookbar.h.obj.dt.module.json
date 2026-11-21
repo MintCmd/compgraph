@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\afxoutlookbar.obj",
+            "outputs": [
+                "Release\\afxoutlookbar.h.obj.dt.module.json",
+                "Release\\afxoutlookbar.h.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

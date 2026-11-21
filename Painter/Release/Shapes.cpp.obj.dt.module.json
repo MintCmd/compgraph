@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\Shapes.obj",
+            "outputs": [
+                "Release\\Shapes.cpp.obj.dt.module.json",
+                "Release\\Shapes.cpp.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

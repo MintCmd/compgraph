@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\PagePropertyDlg.obj",
+            "outputs": [
+                "Release\\PagePropertyDlg.h.obj.dt.module.json",
+                "Release\\PagePropertyDlg.h.obj.dt.d.json",
+                "Release\\Painter.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
